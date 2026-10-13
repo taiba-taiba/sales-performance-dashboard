@@ -1,5 +1,8 @@
 # Sales Performance Dashboard | Power BI
 
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+
 ## Project Overview
 
 The **Sales Performance Dashboard** is an interactive business intelligence project built with Microsoft Power BI. It analyzes sales performance, profitability, product performance, customer segments, and discount bands across countries and time.
